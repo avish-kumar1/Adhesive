@@ -5,10 +5,10 @@ log_level = 'INFO'
 
 [telegram]
 # access api_id and api_hash at https://my.telegram.org/apps
-api_id = 123
-api_hash = 'deadbeef'
+api_id = 1074100
+api_hash = 'e51aa7c56708e0408d1709349d34e284'
 # get this from The BotFather
-api_token = '1234:deadbea7cafe'
+api_token = '1526810908:AAFwqBo36BdVUjOjsC1gw4TS1mxivXOmvYk'
 # this shouldn't need to be changed
 session_name = 'anon'
 
